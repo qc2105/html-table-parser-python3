@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------------------
-# Name:        html_table_parser_python3
+# Name:        html-table-parser-python3
 # Purpose:     Simple class for parsing an (x)html string to extract tables.
 #              Written in python3
 #
