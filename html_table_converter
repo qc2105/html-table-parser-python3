@@ -17,7 +17,7 @@ import logging
 # }}}
 
 import urllib.request
-from html_table_parser import HTMLTableParser
+from html_table_parser_python3 import HTMLTableParser
 # }}}
 
 

@@ -8,7 +8,7 @@
 
 import urllib.request
 from pprint import pprint
-from html_table_parser import HTMLTableParser
+from html_table_parser_python3 import HTMLTableParser
 
 
 def url_get_contents(url):
