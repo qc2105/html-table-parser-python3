@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(name='html-table-parser-python3',
-                 version='0.1.2',
+                 version='0.1.5',
                  description='A small and simple HTML table parser not requiring any external dependency.',
                  url='https://github.com/ahobsonsayers/html-table-parser-python3',
                  author='Arran Hobson Sayers',
