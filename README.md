@@ -13,7 +13,7 @@ Example Usage:
 
     import urllib.request
     from pprint import pprint
-    from html_table_parser import HTMLTableParser
+    from html_table_parser.parser import HTMLTableParser
     
     
     def url_get_contents(url):
